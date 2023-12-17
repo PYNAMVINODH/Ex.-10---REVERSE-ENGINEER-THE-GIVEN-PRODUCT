@@ -48,7 +48,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![WhatsApp Image 2023-12-17 at 16 51 32_7b25e6ee](https://github.com/PYNAMVINODH/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742678/19c2021b-a6a7-4d52-869d-f1a6d646f20a)
+![20231217_205014](https://github.com/PYNAMVINODH/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145742678/b97885d9-2076-4079-ad8f-4035f8f113f4)
+
 
 
 
